@@ -1,0 +1,38 @@
+h2 {
+	color:rgb(122, 51, 51);
+	font-family: Helvetica;
+} 
+p {
+	font-size: 15px;
+	color: rgb(88, 88, 89);
+}
+#image1 {
+	margin: 30px;
+	height: 20%;
+	width: 20%;
+}
+#image2 {
+	margin: 20px;
+	height: 15%;
+	width: 15%;
+}
+#image3 {
+	margin: auto;
+	height: 250px;
+	width: 250px;
+}
+.priority {
+	text-align: center;
+	font-size: 45px;
+}
+body {
+	background-color: rgb(234, 234, 247);
+}
+#paragraph5 {
+	text-align: center;
+}
+.row {
+	text-align: center;
+	color: rgb(51, 160, 155);
+}
+/*A comment that explains something*/
